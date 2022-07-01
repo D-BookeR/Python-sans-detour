@@ -7,5 +7,5 @@ Ce dépôt contient les codes sources des exemples du livre [Python sans détour
 
 
 
-Si ces exemples vous intéressent et que vous n'avez pas acheté le livre, nous vous invitons à le [faire](https://www.d-booker.fr/opencv-py/609-traitement-d-images-et-de-videos-avec-opencv-4-en-python.html). Sa rédaction est le fruit d'un gros travail et votre soutien nous sera précieux.
+Si ces exemples vous intéressent et que vous n'avez pas acheté le livre, nous vous invitons à le [faire](https://www.d-booker.fr/python/724-python-sans-detour.html). Sa rédaction est le fruit d'un gros travail et votre soutien nous sera précieux.
 
